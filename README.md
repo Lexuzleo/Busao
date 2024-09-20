@@ -16,6 +16,7 @@ Instale os arquivos do repositório, menos o README, use o Proprio Portugol Stud
 
 ## ✒️Altores ##
 >Lexuzleo - Programador Backend, Frontend e Documentação.
+>Joao-vitorVeroneze - Programador Backend.
 
 ## 🎁 Expressões de gratidão ##
 * O que acharam do meu primeiro projeto 📢;
