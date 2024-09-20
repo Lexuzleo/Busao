@@ -9,6 +9,7 @@
 
 ## 🔧 Instalação ##
 Instale os arquivos do repositório, menos o README, use o Proprio Portugol Studio
+[https://portugol.dev/]
 
 ## ⚙️ Execultando ##
  Clique com o botão direiro do mouse e clique em "Abrir com" e escolha o Portugol Studio.
